@@ -1,0 +1,35 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+header{
+    padding: 20px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+.title{
+    font-size: 50px;
+}
+
+.image{
+    margin-right: 40px;
+}
+
+.JavaScript-logo{
+    width: 100px;
+}
+
+.content{
+    display: flex;
+    height: 220px;
+    background-color: rgb(239, 239, 72);
+    align-items: center;
+    padding: 20px;
+}
